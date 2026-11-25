@@ -1,0 +1,7 @@
+Write one sentence (up to 200 characters) about the best advice you ever
+received. It must sound like a real person recalling a real moment: a
+specific person, a concrete scene, advice that is earned and true beyond
+that moment — not a slogan or a fortune cookie. Tight, one breath, and it
+must land: the reader keeps something after the last word. The program
+writes the sentence to /output/entry.txt (or ./entry.txt) and validates
+the gate (UTF-8, 1–200 characters, one sentence) before writing.
